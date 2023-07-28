@@ -1,0 +1,13 @@
+.hi{
+    font-size: 100px;
+   padding-top: 150px;
+   background: -webkit-linear-gradient(#ffffff, #0d0d0d);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.wel{
+    background-size: cover;
+    background-image: url("bg1.jpg");
+    height: 635px;
+}
